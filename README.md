@@ -26,7 +26,7 @@ https://github.com/JetBrains/JetBrainsMono
 
 https://github.com/larsenwork/monoid
 
-[monoid](imgs/monoid.png)
+![monoid](imgs/monoid.png)
 
 # Ubuntu Fonts Family
 
@@ -34,14 +34,14 @@ https://design.ubuntu.com/font
 
 Ubuntu：
 
-[ubuntu](imgs/ubuntu.png)
+![ubuntu](imgs/ubuntu.png)
 
 UbuntuMono：
 
-[ubuntu_mono](imgs/ubuntu_mono.png)
+![ubuntu_mono](imgs/ubuntu_mono.png)
 
 # source code pro
 
 https://github.com/adobe-fonts/source-code-pro
 
-[source_code_pro](imgs/source_code_pro.png)
+![source_code_pro](imgs/source_code_pro.png)
