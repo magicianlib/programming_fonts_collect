@@ -45,3 +45,9 @@ UbuntuMono：
 https://github.com/adobe-fonts/source-code-pro
 
 ![source_code_pro](imgs/source_code_pro.png)
+
+# Intel One Mono 
+
+https://github.com/intel/intel-one-mono
+
+![intel-one-mono](imgs/intel-one-mono.png)
