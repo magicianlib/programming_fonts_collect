@@ -2,25 +2,25 @@
 
 https://github.com/microsoft/cascadia-code
 
-![cascadia](imgs/Cascadia-Code.png)
+![Cascadia_Code](imgs/Cascadia_Code.png)
 
 # Fira Code
 
 https://github.com/tonsky/FiraCode
 
-![fira_code](imgs/Fira-Code.png)
+![Fira_Code](imgs/Fira_Code.png)
 
 # Hack
 
 https://github.com/source-foundry/Hack
 
-![hack](imgs/Hack.png)
+![Hack](imgs/Hack.png)
 
 # JetBrains Mono
 
 https://github.com/JetBrains/JetBrainsMono
 
-![jetbrains_mono](imgs/JetBrains-Mono.png)
+![JetBrains_Mono](imgs/JetBrains_Mono.png)
 
 # monoid
 
@@ -34,26 +34,26 @@ https://design.ubuntu.com/font
 
 Ubuntu：
 
-![ubuntu](imgs/Ubuntu.png)
+![Ubuntu](imgs/Ubuntu.png)
 
 UbuntuMono：
 
-![ubuntu_mono](imgs/UbuntuMono.png)
+![UbuntuMono](imgs/UbuntuMono.png)
 
 # source code pro
 
 https://github.com/adobe-fonts/source-code-pro
 
-![source_code_pro](imgs/source-code-pro.png)
+![source_code_pro](imgs/source_code_pro.png)
 
 # Intel One Mono
 
 https://github.com/intel/intel-one-mono
 
-![intel-one-mono](imgs/Intel-One-Mono.png)
+![Intel_One_Mono](imgs/Intel_One_Mono.png)
 
 # IBM Plex Mono
 
 https://fonts.google.com/specimen/IBM+Plex+Mono
 
-![IBM-Plex-Mono](imgs/IBM-Plex-Mono.png)
+![IBM_Plex_Mono](imgs/IBM_Plex_Mono.png)
