@@ -57,3 +57,9 @@ https://github.com/intel/intel-one-mono
 https://fonts.google.com/specimen/IBM+Plex+Mono
 
 ![IBM_Plex_Mono](imgs/IBM_Plex_Mono.png)
+
+# MonaspaceArgon
+
+https://github.com/githubnext/monaspace
+
+![MonaspaceArgon](imgs/MonaspaceArgon.png)
