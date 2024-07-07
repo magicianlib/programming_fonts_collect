@@ -63,3 +63,9 @@ https://fonts.google.com/specimen/IBM+Plex+Mono
 https://github.com/githubnext/monaspace
 
 ![MonaspaceArgon](imgs/MonaspaceArgon.png)
+
+# Inconsolata
+
+https://fonts.google.com/specimen/Inconsolata
+
+![Inconsolata](imgs/Inconsolata.png)
