@@ -69,3 +69,9 @@ https://github.com/githubnext/monaspace
 https://fonts.google.com/specimen/Inconsolata
 
 ![Inconsolata](imgs/Inconsolata.png)
+
+# DejaVu Sans Mono
+
+https://github.com/dejavu-fonts/dejavu-fonts
+
+![DejaVu Sans Mono](imgs/DejaVu_Sans_Mono.png)
